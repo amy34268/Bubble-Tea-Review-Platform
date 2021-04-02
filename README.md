@@ -7,4 +7,4 @@ With the use of this application, bubble tea shops are able access their own tea
 Customers can also use the application to choose their favorite tea shop. Customers are also able to scroll through reviews and make a basic judgement on a certain bubble tea shop.
 Users of this website can also see lists of Bubble Tea Shop, Customers, or Beverages as they desired. 
 
-We will be using the Oracle database system, JDBC and php for the front end part.
+We will be using the Oracle database system and php for the front end part of our project.
