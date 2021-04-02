@@ -1,6 +1,10 @@
 The domain that we are going to model is a Bubble Tea Stores Review Platform. We’re going to focus on Bubble Tea shops and their beverages, as well as customers’ ratings and comments on them.
 
-There will be two main user classes for this application: bubble tea shop owners, and customers. This application will allow tea shops to have a broad view of customers’ preferences. With the use of this application, bubble tea shops will be able access their own tea shop page to see feedback in order to improve their products. Customers can also use the application to choose their favorite tea shop. Customers will also be able to scroll through reviews and make a basic judgement on a certain bubble tea shop. They can also leave reviews of their own.
+We are using php for this project. In the php file, we've implemented both front end and back end of our system. We've used HTML to design the interface of our project.
 
-We will be using the Oracle database system, as well as Java, JDBC and Bootstrap for the front end part.
+This application allows tea shops to have a broad view of customers’ preferences. 
+With the use of this application, bubble tea shops are able access their own tea shop page to see feedback in order to improve their products. 
+Customers can also use the application to choose their favorite tea shop. Customers are also able to scroll through reviews and make a basic judgement on a certain bubble tea shop.
+Users of this website can also see lists of Bubble Tea Shop, Customers, or Beverages as they desired. 
 
+We will be using the Oracle database system, JDBC and php for the front end part.
